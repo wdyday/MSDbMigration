@@ -1,0 +1,18 @@
+{
+    "TableFrom": "Container",
+    "TableTo": "Container2",
+    "Columns": [
+        {
+            "ColumnFrom": "ContainerId",
+            "ColumnTo": "ContainerId"
+        },
+        {
+            "ColumnFrom": "ContainerNo",
+            "ColumnTo": "ContainerNo2"
+        },
+        {
+            "ColumnFrom": "ContainerSize",
+            "ColumnTo": "ContainerSize2"
+        }
+    ]
+}

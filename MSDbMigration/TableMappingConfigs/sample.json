@@ -1,0 +1,14 @@
+{
+    "TableFrom": "table1",
+    "TableTo": "table2",
+    "Columns": [
+        {
+            "ColumnFrom": "Column1",
+            "ColumnTo": "Column2"
+        },
+        {
+            "ColumnFrom": "Column3",
+            "ColumnTo": "Column4"
+        }
+    ]
+}
